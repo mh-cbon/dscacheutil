@@ -3,7 +3,9 @@ Provides dscacheutil response parsing to JSON.
 
 # install
 
-  npm i @mh-cbon/dscacheutil --save
+```sh
+npm i @mh-cbon/dscacheutil --save
+```
 
 # usage
 

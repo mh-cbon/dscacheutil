@@ -1,0 +1,519 @@
+name: ip
+aliases: IP
+number: 0
+
+name: icmp
+aliases: ICMP
+number: 1
+
+name: igmp
+aliases: IGMP
+number: 2
+
+name: ggp
+aliases: GGP
+number: 3
+
+name: ipencap
+aliases: IP-ENCAP
+number: 4
+
+name: st2
+aliases: ST2
+number: 5
+
+name: tcp
+aliases: TCP
+number: 6
+
+name: cbt
+aliases: CBT
+number: 7
+
+name: egp
+aliases: EGP
+number: 8
+
+name: igp
+aliases: IGP
+number: 9
+
+name: bbn-rcc
+aliases: BBN-RCC-MON
+number: 10
+
+name: nvp
+aliases: NVP-II
+number: 11
+
+name: pup
+aliases: PUP
+number: 12
+
+name: argus
+aliases: ARGUS
+number: 13
+
+name: emcon
+aliases: EMCON
+number: 14
+
+name: xnet
+aliases: XNET
+number: 15
+
+name: chaos
+aliases: CHAOS
+number: 16
+
+name: udp
+aliases: UDP
+number: 17
+
+name: mux
+aliases: MUX
+number: 18
+
+name: dcn
+aliases: DCN-MEAS
+number: 19
+
+name: hmp
+aliases: HMP
+number: 20
+
+name: prm
+aliases: PRM
+number: 21
+
+name: xns-idp
+aliases: XNS-IDP
+number: 22
+
+name: trunk-1
+aliases: TRUNK-1
+number: 23
+
+name: trunk-2
+aliases: TRUNK-2
+number: 24
+
+name: leaf-1
+aliases: LEAF-1
+number: 25
+
+name: leaf-2
+aliases: LEAF-2
+number: 26
+
+name: rdp
+aliases: RDP
+number: 27
+
+name: irtp
+aliases: IRTP
+number: 28
+
+name: iso-tp4
+aliases: ISO-TP4
+number: 29
+
+name: netblt
+aliases: NETBLT
+number: 30
+
+name: mfe-nsp
+aliases: MFE-NSP
+number: 31
+
+name: merit-inp
+aliases: MERIT-INP
+number: 32
+
+name: sep
+aliases: SEP
+number: 33
+
+name: 3pc
+aliases: 3PC
+number: 34
+
+name: idpr
+aliases: IDPR
+number: 35
+
+name: xtp
+aliases: XTP
+number: 36
+
+name: ddp
+aliases: DDP
+number: 37
+
+name: idpr-cmtp
+aliases: IDPR-CMTP
+number: 38
+
+name: tp++
+aliases: TP++
+number: 39
+
+name: il
+aliases: IL
+number: 40
+
+name: ipv6
+aliases: IPV6
+number: 41
+
+name: sdrp
+aliases: SDRP
+number: 42
+
+name: ipv6-route
+aliases: IPV6-ROUTE
+number: 43
+
+name: ipv6-frag
+aliases: IPV6-FRAG
+number: 44
+
+name: idrp
+aliases: IDRP
+number: 45
+
+name: rsvp
+aliases: RSVP
+number: 46
+
+name: gre
+aliases: GRE
+number: 47
+
+name: mhrp
+aliases: MHRP
+number: 48
+
+name: bna
+aliases: BNA
+number: 49
+
+name: esp
+aliases: ESP
+number: 50
+
+name: ah
+aliases: AH
+number: 51
+
+name: i-nlsp
+aliases: I-NLSP
+number: 52
+
+name: swipe
+aliases: SWIPE
+number: 53
+
+name: narp
+aliases: NARP
+number: 54
+
+name: mobile
+aliases: MOBILE
+number: 55
+
+name: tlsp
+aliases: TLSP
+number: 56
+
+name: skip
+aliases: SKIP
+number: 57
+
+name: ipv6-icmp
+aliases: IPV6-ICMP
+number: 58
+
+name: ipv6-nonxt
+aliases: IPV6-NONXT
+number: 59
+
+name: ipv6-opts
+aliases: IPV6-OPTS
+number: 60
+
+name: cftp
+aliases: CFTP
+number: 62
+
+name: sat-expak
+aliases: SAT-EXPAK
+number: 64
+
+name: kryptolan
+aliases: KRYPTOLAN
+number: 65
+
+name: rvd
+aliases: RVD
+number: 66
+
+name: ippc
+aliases: IPPC
+number: 67
+
+name: sat-mon
+aliases: SAT-MON
+number: 69
+
+name: visa
+aliases: VISA
+number: 70
+
+name: ipcv
+aliases: IPCV
+number: 71
+
+name: cpnx
+aliases: CPNX
+number: 72
+
+name: cphb
+aliases: CPHB
+number: 73
+
+name: wsn
+aliases: WSN
+number: 74
+
+name: pvp
+aliases: PVP
+number: 75
+
+name: br-sat-mon
+aliases: BR-SAT-MON
+number: 76
+
+name: sun-nd
+aliases: SUN-ND
+number: 77
+
+name: wb-mon
+aliases: WB-MON
+number: 78
+
+name: wb-expak
+aliases: WB-EXPAK
+number: 79
+
+name: iso-ip
+aliases: ISO-IP
+number: 80
+
+name: vmtp
+aliases: VMTP
+number: 81
+
+name: secure-vmtp
+aliases: SECURE-VMTP
+number: 82
+
+name: vines
+aliases: VINES
+number: 83
+
+name: ttp
+aliases: TTP
+number: 84
+
+name: nsfnet-igp
+aliases: NSFNET-IGP
+number: 85
+
+name: dgp
+aliases: DGP
+number: 86
+
+name: tcf
+aliases: TCF
+number: 87
+
+name: eigrp
+aliases: EIGRP
+number: 88
+
+name: ospf
+aliases: OSPFIGP
+number: 89
+
+name: sprite-rpc
+aliases: Sprite-RPC
+number: 90
+
+name: larp
+aliases: LARP
+number: 91
+
+name: mtp
+aliases: MTP
+number: 92
+
+name: ax.25
+aliases: AX.25
+number: 93
+
+name: ipip
+aliases: IPIP
+number: 94
+
+name: micp
+aliases: MICP
+number: 95
+
+name: scc-sp
+aliases: SCC-SP
+number: 96
+
+name: etherip
+aliases: ETHERIP
+number: 97
+
+name: encap
+aliases: ENCAP
+number: 98
+
+name: gmtp
+aliases: GMTP
+number: 100
+
+name: ifmp
+aliases: IFMP
+number: 101
+
+name: pnni
+aliases: PNNI
+number: 102
+
+name: pim
+aliases: PIM
+number: 103
+
+name: aris
+aliases: ARIS
+number: 104
+
+name: scps
+aliases: SCPS
+number: 105
+
+name: qnx
+aliases: QNX
+number: 106
+
+name: a/n
+aliases: A/N
+number: 107
+
+name: ipcomp
+aliases: IPComp
+number: 108
+
+name: snp
+aliases: SNP
+number: 109
+
+name: compaq-peer
+aliases: Compaq-Peer
+number: 110
+
+name: ipx-in-ip
+aliases: IPX-in-IP
+number: 111
+
+name: vrrp
+aliases: VRRP
+number: 112
+
+name: pgm
+aliases: PGM
+number: 113
+
+name: l2tp
+aliases: L2TP
+number: 115
+
+name: ddx
+aliases: DDX
+number: 116
+
+name: iatp
+aliases: IATP
+number: 117
+
+name: st
+aliases: ST
+number: 118
+
+name: srp
+aliases: SRP
+number: 119
+
+name: uti
+aliases: UTI
+number: 120
+
+name: smp
+aliases: SMP
+number: 121
+
+name: sm
+aliases: SM
+number: 122
+
+name: ptp
+aliases: PTP
+number: 123
+
+name: isis
+aliases: ISIS
+number: 124
+
+name: fire
+aliases: FIRE
+number: 125
+
+name: crtp
+aliases: CRTP
+number: 126
+
+name: crdup
+aliases: CRUDP
+number: 127
+
+name: sscopmce
+aliases: SSCOPMCE
+number: 128
+
+name: iplt
+aliases: IPLT
+number: 129
+
+name: sps
+aliases: SPS
+number: 130
+
+name: pipe
+aliases: PIPE
+number: 131
+
+name: sctp
+aliases: SCTP
+number: 132
+
+name: fc
+aliases: FC
+number: 133
+
+name: divert
+aliases: DIVERT
+number: 254

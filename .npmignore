@@ -1,0 +1,6 @@
+/node_modules/
+/vagrant/
+/.vagrant/
+/fixtures/
+Vagrantfile
+mocha.sh

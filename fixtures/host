@@ -1,0 +1,8 @@
+name: localhost
+ip_address: 127.0.0.1
+
+name: broadcasthost
+ip_address: 255.255.255.255
+
+name: localhost
+ipv6_address: ::1

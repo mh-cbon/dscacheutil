@@ -1,0 +1,15 @@
+name: encrypted-llrp
+protocol: udp
+port: 5085
+
+name: sentinel-lm
+protocol: udp
+port: 5093
+
+name: sentinel-lm
+protocol: tcp
+port: 5093
+
+name: sentlm-srv2srv
+protocol: udp
+port: 5099

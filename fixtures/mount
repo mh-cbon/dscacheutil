@@ -1,0 +1,8 @@
+name: /dev/disk0s2
+file: /
+vfstype: hfs
+options: rw
+type: rw
+vfstype: hfs
+frequency: 0
+pass: 1

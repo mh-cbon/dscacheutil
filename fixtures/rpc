@@ -1,0 +1,125 @@
+name: portmapper
+aliases: portmap sunrpc
+number: 100000
+
+name: rstatd
+aliases: rstat rstat_svc rup perfmeter
+number: 100001
+
+name: rusersd
+aliases: rusers
+number: 100002
+
+name: nfs
+aliases: nfsprog
+number: 100003
+
+name: ypserv
+aliases: ypprog
+number: 100004
+
+name: mountd
+aliases: mount showmount
+number: 100005
+
+name: ypbind
+number: 100007
+
+name: walld
+aliases: rwall shutdown
+number: 100008
+
+name: yppasswdd
+aliases: yppasswd
+number: 100009
+
+name: etherstatd
+aliases: etherstat
+number: 100010
+
+name: rquotad
+aliases: rquotaprog quota rquota
+number: 100011
+
+name: sprayd
+aliases: spray
+number: 100012
+
+name: 3270_mapper
+number: 100013
+
+name: rje_mapper
+number: 100014
+
+name: selection_svc
+aliases: selnsvc
+number: 100015
+
+name: database_svc
+number: 100016
+
+name: rexd
+aliases: rex
+number: 100017
+
+name: alis
+number: 100018
+
+name: sched
+number: 100019
+
+name: llockmgr
+number: 100020
+
+name: nlockmgr
+number: 100021
+
+name: x25.inr
+number: 100022
+
+name: statmon
+number: 100023
+
+name: status
+number: 100024
+
+name: bootparamd
+aliases: bootparam
+number: 100026
+
+name: ypupdated
+aliases: ypupdate
+number: 100028
+
+name: keyserv
+aliases: keyserver
+number: 100029
+
+name: tfsd
+number: 100037
+
+name: nsed
+number: 100038
+
+name: nsemntd
+number: 100039
+
+name: pcnfsd
+aliases: pcnfs
+number: 150001
+
+name: amd
+number: 300019
+
+name: cmsd
+number: 100068
+
+name: ttdbserver
+aliases: tooltalk
+number: 100083
+
+name: netinfo
+number: 200100000
+
+name: netinfobind
+number: 200100001

@@ -23,10 +23,10 @@ npm i @mh-cbon/dscacheutil --save
 
 ```sh
 npm i @mh-cbon/dscacheutil -g
-jdscacheutil host
-jdscacheutil rpc
-jdscacheutil user
-jdscacheutil group
+jdscacheutil -q host
+jdscacheutil -q rpc
+jdscacheutil -q user
+jdscacheutil -q group
 ```
 
 see [dscacheutil](http://ss64.com/osx/dscacheutil.html)

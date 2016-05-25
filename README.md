@@ -13,9 +13,9 @@ npm i @mh-cbon/dscacheutil --save
   var dscacheutil = require('@mh-cbon/dscacheutil')
 
   dscacheutil({q: 'host'}, function (err, code, data) {
+    process.exitCode = parseInt(code);
     if (code!==0) err && console.error(err);
     else data && console.log(JSON.stringify(data, null, 2));
-    process.exit(code);
   });
 ```
 

@@ -1,6 +1,6 @@
 {
   "name": "@mh-cbon/dscacheutil",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "dscacheutil to json",
   "main": "index.js",
   "bin": {

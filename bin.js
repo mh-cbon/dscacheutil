@@ -13,9 +13,7 @@ if(!argv.q) {
 var dscacheutil = require('./index.js')
 
 dscacheutil(argv, function (err, code, data) {
+  process.exitCode = parseInt(code);
   if (code!==0) err && console.error(err);
   else data && console.log(JSON.stringify(data, null, 2));
-  setTimeout(function () { // weird bug fix :x
-    process.exit(parseInt(code));
-  }, 100)
 })
